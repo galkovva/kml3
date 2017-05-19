@@ -1,0 +1,40 @@
+<kml>
+	<Document>
+		<name>KML sample file</name>
+		<description>KML file</description>
+		<Placemark>
+			<name>Gdansk, Narutowicza 11/12</name>
+			<description>Wydzial ETI Politechniki Gdanskiej</description>
+			<Point><coordinates>18.61289,54.37096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mechaniczny</name>
+			<description>Mechaniczny</description>
+			<Point>
+				<coordinates>18.614537,54.371501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kwadratowa</name>
+			<description>Kwadratowa</description>
+			<Point>
+				<coordinates>18.615227,54.370781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Polufka</name>
+			<description>Pub Polufka</description>
+			<Point>
+				<coordinates>18.618928,54.378937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manhattan</name>
+			<description>Manhattan</description>
+			<Point>
+				<coordinates>18.607533,54.377267,0</coordinates>
+			</Point>
+		</Placemark>		
+	</Document>
+</kml>
